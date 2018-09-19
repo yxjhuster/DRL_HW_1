@@ -119,6 +119,8 @@ plt.imshow(values)
 plt.colorbar()
 plt.show()
 
+
+
 ###Custom & Stochastic
 # env = gym.make('Deterministic-4x4-FrozenLake-v0')
 # policy, iteration = rl.value_iteration_async_custom(env, gamma)
